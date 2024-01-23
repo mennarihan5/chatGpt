@@ -35,8 +35,8 @@ async function getMessage() {
     } catch (error){
         console.error(error)
     }
-    // CLEAR INPUT DATA
-    input.value = "";
+    // // CLEAR INPUT DATA
+    // input.value = "";
 }
 
 
