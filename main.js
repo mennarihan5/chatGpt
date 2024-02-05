@@ -1,4 +1,4 @@
-const apiKey = "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";
+const apiKey = "";
 const mainText = document.querySelector(".main-center-text");
 const input = document.getElementById("input-field");
 const submitBtn = document.querySelector(".input-send-icon");
